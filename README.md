@@ -3,7 +3,7 @@
 # DSP Project
 
 A comprehensive Digital Signal Processing toolkit designed in MATLAB to analyze, filter, and manipulate digital signals. This repository contains the fundamental algorithms and processing pipelines required to handle raw signal data, extract spectral characteristics, and apply mathematical transformations.
-
+Project was done in may/2026
 ## Team Members
 * **Omar Tarek Saied Soudan**
 * **Mohamed Walid**
@@ -37,6 +37,3 @@ cd dsp-project
 ## Repository Structure
 * **Scripts:** Contains the core `.m` files for signal processing algorithms, filter designs, and mathematical models.
 * **Data:** Recommended folder to store your raw input files and generated output `.mat` workspaces (make sure to add large data files to your `.gitignore`).
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
